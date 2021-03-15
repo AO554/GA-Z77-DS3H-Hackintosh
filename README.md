@@ -1,6 +1,8 @@
 # GA-Z77-DS3H Hackintosh Configuration
 (Compatible with macOS Big Sur)
 
+![image](https://user-images.githubusercontent.com/24486206/111170940-5efd8f00-859c-11eb-92ba-bf0ae09a10e9.png)
+
 # !! Notice !!
 This configuration uses ```Clover v5.1 r5126``` as the bootloader, although the Latest verison of OpenCore should work with an older version of the HFSPlus driver.
 
