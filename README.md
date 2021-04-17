@@ -12,8 +12,11 @@ This configuration uses ```Clover v5.1 r5126``` as the bootloader, although the 
 as far as I should see this configuration should work from the releases listed:
 
 macOS Big Sur (11.0)
+
 macOS Catalina (10.15)
+
 macOS Mojave (10.14)
+
 macOS High Sierra (10.13)
 
 # So what works?
