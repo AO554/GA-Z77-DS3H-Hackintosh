@@ -4,6 +4,7 @@
 
 # !! Notice !!
 This configuration uses ```Clover v5.1 r5126``` as the bootloader, although the Latest verison of OpenCore should work with an older version of the HFSPlus driver.
+``` OpenCore Version is comming soon! With everything working including sleep! ```
 
 - Using Clover has normally meant (In my testing) that you should start macOS from Preboot (even if you don't have FileVault) if you are using macOS Big Sur and Higher -
 - **You will have to generate your own Serial Numbers and Board Serial Numbers using either Clover Configurator or GenSMBIOS**
